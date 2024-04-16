@@ -1,7 +1,7 @@
 {
   "name": "harmony-sheets-hub",
   "private": true,
-  "version": "0.0.0",
+  "version": "H",
   "type": "module",
   "scripts": {
     "dev": "vite",
